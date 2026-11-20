@@ -1,0 +1,6 @@
+{
+  "name": "Echo: Room 07 — الصدى: الغرفة السابعة",
+  "description": "لعبة رعب نفسية تفاعلية ثلاثية الأبعاد تكسر الجدار الرابع عبر ربط هاتف اللاعب الحقيقي برسائل SMS (Twilio) وGoogle Chat وGoogle Forms مع كود بايثون الكامل.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
